@@ -1,5 +1,6 @@
 # cc_experiment1
 #Contains Duplicate II
+#javascript
 /**
  * @param {number[]} nums
  * @param {number} k
